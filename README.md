@@ -361,6 +361,7 @@ Once configured, every change merged into `master` rebuilds and publishes the st
 | 🖥️ | [ScreenSnap Pro](https://www.screensnap.pro/) | Turn ordinary screenshots into stunning visuals in seconds. Add gorgeous backgrounds, annotate with 14 tools, and cloud share instantly (Mac). | **50% OFF** **EZNZQWNW** Lifetime | Offer ends on Dec 31th 2025 |
 | 💸 | [Quickshot Photo Editor](https://quickshot.photo?ref=mRs/) | Powerful AI powered photo editor. Edit photos with words, not tools (iOS) | **50% OFF** Annual | Offer ends on Dec 2nd 2025 |
 | 💸 | [SnapVis](https://www.snapvis.app/) | Transform any screenshot, images into stunning visuals for social media, documentation, product demos, presentations, and more. Add backgrounds, shadows, frames — all in your browser. | 80% OFF with code **BLACKFRIDAY** |
+| 💰 | [BirdFrame](https://getbirdframe.com/?utm_source=bf26-mrs) | Crops thousands of bird photos in one go on your Mac, at full resolution, from Apple Photos or a folder (JPEG, HEIC or RAW). | **33% OFF** the one-time unlock ($29.99 -> $19.99), Nov 20 - Dec 1, 2026. No code needed. |
 
 ⬆️ | [Go to Top](#table-of-contents)
 
